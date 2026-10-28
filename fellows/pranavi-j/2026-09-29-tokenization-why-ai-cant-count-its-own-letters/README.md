@@ -1,6 +1,6 @@
 # Weekly STEM Video: Tokenization: Why AI Can't Count the Letters in Its Own Words
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** September 29, 2026
 **Format:** general AI/STEM topic explainer (`ai-explainer`), distinct from this fellow's weekly
 project-update report
@@ -8,6 +8,11 @@ project-update report
 work. The worked example illustrates a widely-known, generic class of tokenization behavior — not
 a benchmark of any specific real model (tokenizer behavior changes between model versions). See
 `SOURCES.md` and `FACTCHECK.md`.
+
+## Watch
+
+- Landscape (4K 16:9): [Drive link](https://drive.google.com/open?id=1HifrCasAyqc7Dnw-48EC-_U_JDm7camO)
+- Vertical (4K 9:16): [Drive link](https://drive.google.com/open?id=1-wFRtNdLAjKS3yZ-yDvBhZ7FQabTlGSi)
 
 This video covers one real, well-known mechanism behind a common AI failure mode: language models
 don't read text letter-by-letter, they read it in sub-word chunks called tokens, and a word's
@@ -37,10 +42,10 @@ class of behavior, kept intentionally hypothetical per `FACTCHECK.md`.
 - Narration approval: **approved** — Kokoro `af_bella`, locked 2026-10-02
 - Voice: **Bella (`af_bella`)** — persistent for this fellow's whole series
 - Previz: **complete** — 9/9 beats real Manim, no slates, both aspects
-- Final render — **16:9 landscape:** `Tokenization_SaiPranaviJeedigunta.mp4`, 3840x2160, 24fps,
+- Final render — **16:9 landscape:** `Tokenization_SaiPranaviJ.mp4`, 3840x2160, 24fps,
   h264/aac, **121.17s**. GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
 - Final render — **9:16 vertical (full-length, native portrait, not a Shorts cut):**
-  `Tokenization_SaiPranaviJeedigunta.mp4`, 2160x3840, 24fps, h264/aac, **121.17s** (same duration as
+  `Tokenization_SaiPranaviJ.mp4`, 2160x3840, 24fps, h264/aac, **121.17s** (same duration as
   landscape, all 9 beats present, no drops). GATE V on the true clean master: **0 BLOCKER, 0 MAJOR**.
 - Personally re-verified (not just trusting the build report): extracted and viewed real frames
   from B05 (spelled-out fix, both aspects) and B08 (brand sign-off, both aspects) directly from the

@@ -1,11 +1,16 @@
 # Weekly Research Report: The All-Clear That Wasn't All There
 
-**Fellow:** Sai Pranavi Jeedigunta
+**Fellow:** Sai Pranavi J.
 **Week ending:** September 22, 2026
 **Project:** Project 29 — Financial Regulatory Intelligence System (`mycroft` repo,
 `scripts/regulatory-intel/`)
 **Source status:** Real engineering work. Every claim traces to `B5-VERIFICATION.md`
 (2026-09-29) and the matching `logs/RUN_LOG.md` entry. See `SOURCES.md` and `FACTCHECK.md`.
+
+## Watch
+
+- Landscape (4K 16:9): [Drive link](https://drive.google.com/open?id=1HM-Vd1oQxWg8Km2WhpVQMPIclhh7QRaK)
+- Vertical (4K 9:16): [Drive link](https://drive.google.com/open?id=1ixcfy8IkRX_OtyYb7ftyoQKgu1znIHUU)
 
 This ~1.8-minute AI-generated video asks: **can a status email that says "all clear" be wrong
 about what it even checked?** The pipeline's own "all clear" run-summary email — the one sent
@@ -59,8 +64,8 @@ This is the first video in this fellow's series built under the toolkit's NEW su
 
 ## Deliverables
 
-- `deliverables/landscape/AllClearEmailFix_SaiPranaviJeedigunta.mp4` — 4K (3840x2160), 107.708s
-- `deliverables/vertical/AllClearEmailFix_SaiPranaviJeedigunta.mp4` — 4K full-length vertical
+- `deliverables/landscape/AllClearEmailFix_SaiPranaviJ.mp4` — 4K (3840x2160), 107.708s
+- `deliverables/vertical/AllClearEmailFix_SaiPranaviJ.mp4` — 4K full-length vertical
   (2160x3840), 107.708s
 - Both ship with a matching `.verified.json` receipt (SHA-256 of the output plus every input
   clip/audio file hashed).

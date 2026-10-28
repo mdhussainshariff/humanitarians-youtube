@@ -115,6 +115,83 @@ an explicit, documented re-voice decision is made.
   Humanitarians AI guest lecture at a college with Yatra (done), and
   delivering that lecture on Tuesday (next). 16:9 (1:51) + 9:16 (1:55,
   full-parity reformat, no beats dropped) cuts.
+- `2026-10-11-ai-done-right/` — AI Done Right: What Nonprofits Built Around AI
+  Can Teach Us About Trust, People, and Purpose. User asked for a "Deep
+  Explainer" at exactly 4:00 with no footage — the toolkit's actual
+  deep-explainer skill targets 5-10 min and requires archival stills, so built
+  instead on the ai-explainer chassis (disclosed substitution). Simple,
+  observational, neutral tone per explicit request: the encouraging findings
+  from the Fast Forward report (92% say services got more efficient; 88% / 84%
+  worry about wrong information / misused data; 76% / 51% / 85% involve the
+  people they serve and are open about using AI; 90% plan to grow but about
+  24% have the resources) are all carried as self-reported by nonprofits that
+  already use AI, with the report's Google.org support and Bridgespan's note
+  that skipping AI can be right in their own beat. Generated visuals only (a
+  courtroom-with-paperwork graphic for Adalat AI, a WhatsApp-style chat, stat
+  cards, people around a table). 16:9 (4:00) + 9:16 (2:45, four middle beats
+  dropped to fit the Shorts cap: the 98% survey, the courts/WhatsApp examples,
+  the research setup, and the money gap).
+- `2026-10-12-weekly-recap-mcphs/` — This Week: What Shipped. A CLI-explainer
+  weekly recap — a separate week's log from the earlier weekly-recap builds —
+  built around a real weekly_recap_v1.py, revised into weekly_recap_v2.py to
+  tag each item by category and print a shipped-count — both scripts real, both
+  actually run. Content: publishing "AI Done Right" on Substack, producing two
+  Brutalist videos (four files in 16:9 + 9:16), and giving the Humanitarians AI
+  guest lecture at MCPHS with Yatra Rawat (about 60% of the runtime summarizes
+  the presentation: the organization and mission, how it works, the Madison
+  Project, three case studies, why now, how to get involved). The presentation
+  PDF could not be rendered, so every visual is generated; slides excluded by
+  instruction are not used. 16:9 (2:52) + 9:16 (2:57, full-parity reformat, no
+  beats dropped) cuts.
+- `2026-10-19-hotel-phone-helper/` — The Hotel Phone Gets a Helper: AI voice
+  assistants are now answering hotel calls at any hour. User asked for a "Deep
+  Explainer" at exactly 4:00 with no footage — the toolkit's actual
+  deep-explainer skill targets 5-10 min and requires archival stills, so built
+  instead on the ai-explainer chassis (disclosed substitution). Warm, simple,
+  friendly tone, positive but fair: the "up to 90%" figure from a company's
+  Czech hotel launch is narrated and labeled on screen as company-reported
+  ("best read as a goal, not a promise"), the ~30%-of-the-day figure is "reports
+  suggest", the nine-boutique-hotels result is "in one case study", and a closing
+  sources card and spoken note say most sources are companies that build hotel
+  AI tools, so the percentages are not independent research. The opening Friday
+  lobby scene is labeled an illustration, not a reported case. Generated visuals
+  only (no real hotel brand logos). 16:9 (4:00) + 9:16 (2:51, four middle beats
+  dropped to fit the Shorts cap: hotels never close, the first-ring details, the
+  in-person greeting, and the after-stay call).
+- `2026-10-19-weekly-recap-hotel/` — This Week: Done, and Still a Draft. A
+  CLI-explainer weekly recap — a separate week's log from the earlier
+  weekly-recap builds — built around a real weekly_recap_v1.py, revised into
+  weekly_recap_v2.py to add a status to each item (published / attended / first
+  draft / produced) and print a finished-vs-draft count — both scripts real,
+  both actually run. Content: publishing "The Hotel Phone Gets a Helper" on
+  Substack, attending Homes of Hope meetings, writing with Yatra a first draft of
+  documentary promotion strategies (nothing about the draft is described beyond
+  "first draft"), and producing two Brutalist videos (four files in 16:9 + 9:16).
+  Homes of Hope visuals are abstract (no photos, no people shapes). 16:9 (1:45)
+  + 9:16 (1:50, full-parity reformat, no beats dropped) cuts.
+- `2026-10-24-ai-colleague-quota/` — The AI Colleague With a Quota: sales teams
+  are adding AI agents that handle the research and the first hello so people
+  can spend more time on the conversations that matter. User asked for a "Deep
+  Explainer" at exactly 4:00 with no footage — the toolkit's deep-explainer
+  skill targets 5-10 min and requires archival stills, so built on the
+  ai-explainer chassis (disclosed substitution). Warm, simple, positive but fair
+  tone. Every figure from the article (87%, 1.7x, 94%, 54%, 34%, 46%, about a
+  third) is labeled on screen as company- or survey-reported, spread over four
+  stat scenes, with a closing sources card and a spoken note that most sources
+  are companies that sell these tools. Generated visuals only (no company
+  logos). 16:9 (4:00) + 9:16 (2:57, three beats dropped to fit the Shorts cap:
+  B02, B05, B06).
+- `2026-10-24-weekly-recap-quota/` — This Week: Done, and Where I Helped. A
+  CLI-explainer weekly recap built around a real weekly_recap_v1.py (a flat list
+  of the week), revised into weekly_recap_v2.py to add my role to each item
+  (author / attendee / support / producer) and print "4 things done, 1 in a
+  supporting role" — both scripts real, both actually run. Content: publishing
+  "The AI Colleague With a Quota" on Substack, attending Homes of Hope
+  documentary meetings, helping Yatra with the documentary's social media
+  strategy (nothing about the strategy is described beyond "helped"), and
+  producing two Brutalist videos (four files in 16:9 + 9:16). Homes of Hope
+  visuals are abstract (no photos, no people shapes, no platform logos). 16:9
+  (1:44) + 9:16 (1:48, full-parity reformat, no beats dropped) cuts.
 
 ## Frictional log
 
