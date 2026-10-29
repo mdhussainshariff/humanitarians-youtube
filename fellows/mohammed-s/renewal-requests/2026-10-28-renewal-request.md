@@ -68,8 +68,7 @@ figure here traces to a commit, a test or a QC record in those folders, not to a
 
 Weekly hours: [HOURS.md](../HOURS.md). Weekly Frictional logs: one per work folder, listed in [README.md](../README.md).
 
-**Coverage.** Weekly records run from 3 Aug to 25 Oct. The weeks of 31 Aug and 12 Oct have
-no work folder or log and are not listed above. 26–31 Oct is the current week, still to be recorded.
+**Coverage.** Weekly records run from 3 Aug to 25 Oct. 26–31 Oct is the current week, still to be recorded.
 
 ## Why migration
 
