@@ -48,7 +48,7 @@ figure here traces to a commit, a test or a QC record in those folders, not to a
 | Data contract metric-impact simulation | [4469968](https://github.com/mdhussainshariff/Mycroft/commit/4469968) | [drive](https://drive.google.com/file/d/1Ee-pSSfbInmZ8Ofzas5AtXBY9oSFSaSs/view) | - | [log](../2026-09-14-data-contract-simulation/FRICTIONAL.md) |
 | snowshift — restructure, lint, deploy, parity | [eb342d4](https://github.com/mdhussainshariff/snowshift/commit/eb342d4) | [drive](https://drive.google.com/file/d/1ahafItD4roNI5A0nX4XRpwvl1RLJxWrL/view) | [watch](https://youtu.be/KXX2EEeFhV8) | [log](../2026-10-05-hussain-snowshift-migration-overview/FRICTIONAL.md) |
 | snowshift — duplicate-key fix | [7ba5900](https://github.com/mdhussainshariff/snowshift/commit/7ba5900) | [drive](https://drive.google.com/file/d/1ahafItD4roNI5A0nX4XRpwvl1RLJxWrL/view) | [watch](https://youtu.be/KXX2EEeFhV8) | [log](../2026-10-05-hussain-snowshift-migration-overview/FRICTIONAL.md) |
-| JBoss migrator — design and orchestrator | [55c4dcb](https://github.com/mdhussainshariff/mycroft-nikbearbrown/commit/55c4dcb) | [drive](https://drive.google.com/file/d/1x3qaq8DK7e7wsPWpLcXuouCnvzPYp0fU/view) | not uploaded | [log](../2026-10-19-jboss-migrator-overview/FRICTIONAL.md) |
+| JBoss migrator — design and orchestrator | [55c4dcb](https://github.com/mdhussainshariff/mycroft-nikbearbrown/commit/55c4dcb) | [drive](https://drive.google.com/file/d/1x3qaq8DK7e7wsPWpLcXuouCnvzPYp0fU/view) | - | [log](../2026-10-19-jboss-migrator-overview/FRICTIONAL.md) |
 
 ## Stem Topics
 
