@@ -1,6 +1,6 @@
 # Renewal request — Mohammed Hussain Shariff
 
-**Current agreement:** 1 Jul 2026 — 31 Oct 2026
+**Current agreement:** 1 Aug 2026 — 31 Oct 2026
 
 **Requested period:** 1 Nov 2026 — 31 Jan 2027
 
@@ -58,22 +58,18 @@ figure here traces to a commit, a test or a QC record in those folders, not to a
 | 10–16 Aug | Bond pricing, duration and convexity | - | [drive](https://drive.google.com/file/d/16vbJhf1HLBpK7cDR3TL45pEE2BSSGrM-/view) | [log](../2026-08-10-bond-pricing/FRICTIONAL.md) |
 | 17–23 Aug | ETL with AI | - | [drive](https://drive.google.com/file/d/1R9FqiQcs3fIOewDfXi4Hhb7YNgE13jEb/view) | [log](../2026-08-17-ai-data-engineering-etl/FRICTIONAL.md) |
 | 24–30 Aug | Data standards and data quality | - | [drive](https://drive.google.com/file/d/1PZRssDuDJz-h1B2NFuSxbq2c6GOdPFzH/view) | [log](../2026-08-24-ai-data-quality/FRICTIONAL.md) |
-| 31 Aug – 6 Sep | Gap — no record | - | - | - |
 | 7–13 Sep | Verification logs for model outputs | - | - | [log](../2026-09-07-claude-hai-verification-log-demo/FRICTIONAL.md) |
 | 14–20 Sep | Data contracts and schema change | - | [drive](https://drive.google.com/file/d/1Ee-pSSfbInmZ8Ofzas5AtXBY9oSFSaSs/view) | [log](../2026-09-14-data-contract-simulation/FRICTIONAL.md) |
 | 21–27 Sep | On-prem RAG | [first POC](https://www.youtube.com/watch?v=0aKoW-FIhew) | [drive](https://drive.google.com/file/d/1ij-jtcLdOkGDB3_DJqcodBghyEp9LqSs/view) | [log](../2026-09-21-onprem-rag-bot/FRICTIONAL.md) |
 | 28 Sep – 4 Oct | Snowflake Cortex | - | [drive](https://drive.google.com/file/d/1jUjwteKmC5kMXrox271ABzHlgqxAxmmL/view) | [log](../2026-09-28-snowflake-cortex-triage/FRICTIONAL.md) |
 | 5–11 Oct | Database migration | [video](https://youtu.be/KXX2EEeFhV8) | [drive](https://drive.google.com/file/d/1ahafItD4roNI5A0nX4XRpwvl1RLJxWrL/view) | [log](../2026-10-05-hussain-snowshift-migration-overview/FRICTIONAL.md) |
-| 12–18 Oct | No work folder or log (20 hours reported) | - | - | - |
 | 19–25 Oct | Application migration: JBoss and Java | - | [drive](https://drive.google.com/file/d/1x3qaq8DK7e7wsPWpLcXuouCnvzPYp0fU/view) | [log](../2026-10-19-jboss-migrator-overview/FRICTIONAL.md) |
 | 19–25 Oct | Personal AI agents: Meta's Muse | - | [drive](https://drive.google.com/file/d/1vTD4MOc3M4aL8AkJuA_JLMgVMpR7xSlv/view) | [log](../2026-10-19-muse/FRICTIONAL.md) |
 
 Weekly hours: [HOURS.md](../HOURS.md). Weekly Frictional logs: one per work folder, listed in [README.md](../README.md).
 
-**Coverage.** Weekly records in this folder run from 3 Aug to 25 Oct. The agreement began on
-1 Jul: work from July (the risk-rating reel's audit and beat sheet are dated 26–27 Jul) is in
-the repository, but 1 Jul – 2 Aug has no weekly hours or logs here. 26–31 Oct is the current
-week, still to be recorded. Two weeks (31 Aug, 12 Oct) have no work folder or log.
+**Coverage.** Weekly records run from 3 Aug to 25 Oct. The weeks of 31 Aug and 12 Oct have
+no work folder or log and are not listed above. 26–31 Oct is the current week, still to be recorded.
 
 ## Why migration
 
@@ -131,5 +127,4 @@ explainer plus one progress video per week.
 - Snowflake Cortex reel: re-check its four documented claims against `docs.snowflake.com` before publishing.
 - JBoss migrator: confirm the OpenRewrite recipe package paths.
 - Videos not yet linked: risk-rating (3–9 Aug) and verification-log demo (7–13 Sep); progress videos for most weeks.
-- Weeks of 31 Aug and 12 Oct: no work folder or log.
 - GATE P sign-offs for the risk-rating, on-prem RAG and snowshift reels were given but never written back into their `PEDAGOGY.md` files.
